@@ -1,0 +1,84 @@
+[
+    {
+        "title":"Deconstructed",
+        "tagLine":"Robotic disassembly of waste electronics",
+        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "featuredImage":{
+            "src":"/media/deconstructed/falling_high_res.png",
+            "alt":"Render of objects falling around a PS3"
+        },
+        "slug":"deconstructed",
+        "startDate":"09/09/2021",
+        "endDate":"17/06/2022",
+        "tags":[
+            "Robotics",
+            "Machine Learning",
+            "Computer Graphics"
+        ],
+        "contributors":[
+            "Chris Vail",
+            "Dr. Nicholas Rojas",
+            "Dongmyoung Lee"
+        ]
+    },
+    {
+        "title":"Fruitful Spaces",
+        "tagLine":"Hydroponic vegetables grown in underused office space",
+        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "featuredImage":{
+            "src":"/media/fruitful/fruitful.jpg",
+            "alt":"A small plant in a Fruitful Unit"
+        },
+        "slug":"fruitful-spaces",
+        "startDate":"09/09/2021",
+        "endDate":"17/06/2022",
+        "tags":[
+            "Start up",
+            "Internet of Things",
+            "Hydroponics"
+        ],
+        "contributors":[
+            "Chris Vail",
+            "Abi Langbridge",
+            "Matt Ryan"
+        ]
+    },
+    {
+        "title":"3D Facial Reconstruction",
+        "tagLine":"Digitising faces using an iPhone camera",
+        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "featuredImage":{
+            "src":"/media/face_reconstruction/face_reconstruction.png",
+            "alt":"3D model of my face"
+        },
+        "slug":"3d-facial-reconstruction",
+        "startDate":"09/09/2019",
+        "endDate":"15/01/2020",
+        "tags":[
+            "Python",
+            "Data Structures and Algorithms"
+        ],
+        "contributors":[
+            "Chris Vail"
+        ]
+    },
+    {
+        "title":"Portfolio Website",
+        "tagLine":"Building a personal brand",
+        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "featuredImage":{
+            "src":"/media/portfolio/portfolio.png",
+            "alt":"Tetris pieces falling into place on a grid"
+        },
+        "slug":"portfolio-website",
+        "startDate":"09/09/2019",
+        "endDate":"15/01/2020",
+        "tags":[
+            "Web Development",
+            "SvelteKit"
+        ],
+        "contributors":[
+            "Chris Vail"
+        ]
+    }
+]
