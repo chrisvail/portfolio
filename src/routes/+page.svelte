@@ -6,6 +6,10 @@
 
 </script>
 
+<svelte:head>
+    <title>Chris Vail's Portfolio</title>
+</svelte:head>
+
 <Hero/>
 <About/>
 <ProjectsGrid/>

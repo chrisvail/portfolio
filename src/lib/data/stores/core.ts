@@ -9,7 +9,7 @@ const iconsData:socialIcon[] = [
     },
     {
         name:"LinkedIn",
-        href:"https://www.linkedin.com/chris-vail",
+        href:"https://www.linkedin.com/in/chris-vail",
         icon:"linkedin"
     },
     {
