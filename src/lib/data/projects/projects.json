@@ -2,7 +2,7 @@
     {
         "title":"Deconstructed",
         "tagLine":"Robotic disassembly of waste electronics",
-        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "summary":"E-waste is piling up and we can't effectively process it at scale. This project looked to reuse and recycle e-waste using advanced robotics. Using a novel image generation pipeline, the system was able to accurately identify and locate screws in a games console, even when heavily occluded by the casing.",
         "featuredImage":{
             "src":"/media/deconstructed/falling_high_res.png",
             "alt":"Render of objects falling around a PS3"
@@ -24,7 +24,7 @@
     {
         "title":"Fruitful Spaces",
         "tagLine":"Hydroponic vegetables grown in underused office space",
-        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "summary":"Employees are demanding more from their office spaces while being there less. Fruitful spaces aims to bring a stronger sense of community while tackling food mileage by growing food and herbs in underutilised office spaces. This IoT enabled hydroponic system produces anything from herbs to full tomatoes to spicy chillis.",
         "featuredImage":{
             "src":"/media/fruitful/fruitful.jpg",
             "alt":"A small plant in a Fruitful Unit"
@@ -46,7 +46,7 @@
     {
         "title":"3D Facial Reconstruction",
         "tagLine":"Digitising faces using an iPhone camera",
-        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "summary":"At Polymetrix, I'm working towards a system to capture highly accurate 3D scans of individuals faces using the iPhone's TrueDepth camera. With 0.5mm precision required, minimal libraries and limited compute resources, how can we convert depth images into 3D models that can be used to fit custom masks?",
         "featuredImage":{
             "src":"/media/face_reconstruction/face_reconstruction.png",
             "alt":"3D model of my face"
@@ -65,7 +65,7 @@
     {
         "title":"Portfolio Website",
         "tagLine":"Building a personal brand",
-        "summary":"Suspendisse ac cursus nisl. Vivamus in porttitor ex, imperdiet fringilla arcu. Sed congue interdum tellus sed convallis. Sed sit amet tellus luctus, dignissim quam eget, dignissim lorem. Donec rhoncus velit ut feugiat facilisis. Nunc eu nisl at felis bibendum blandit at dapibus enim. In rhoncus augue at ipsum luctus imperdiet. Nulla id tellus a est bibendum euismod gravida quis odio. Vestibulum hendrerit fringilla lacinia. Nulla id tincidunt purus. Mauris vel faucibus urna, non varius sem.",
+        "summary":"While it's a little recursive, I built the website you're on from the ground up using SvelteKit; a modern web framework. This (I hope) is proof that I'm not just a talented engineer, but also one who takes the time to communicate deep technical decisions effectively. What good is a great solution if no-one understands what you were trying to do in the first place?",
         "featuredImage":{
             "src":"/media/portfolio/portfolio.png",
             "alt":"Tetris pieces falling into place on a grid"
