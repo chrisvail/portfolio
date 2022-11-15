@@ -18,6 +18,6 @@
         </div>
     </div>
     <div class="md:w-2/5 xl:w-1/3 md:bg-accent-base flex items-center py-8 md:px-0 sm:px-16 px-8 md:py-0">
-        <img class="object-cover" src="/media/chris-stairs-min.jpg" alt="">
+        <img class="object-cover" src="/media/chris-stairs-min.webp" alt="">
     </div>
 </div>
