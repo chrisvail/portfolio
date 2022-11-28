@@ -37,7 +37,9 @@ module.exports = {
                 OpenSans:["Open Sans", "sans-serif"]
             },
             aspectRatio: {
-                "16/9":"16/9"
+                "16/9":"16/9",
+                "9/16":"9/16",
+                "2/3":"2/3"
             }
         },
         

@@ -48,7 +48,7 @@
     <div class="absolute w-full top-0 flex flex-col justify-center py-4 bg-slate-100 dark:bg-zinc-700 dark:bg-opacity-30 bg-opacity-60 backdrop-blur-md backdrop-saturate-150 z-50">
         <div class="flex justify-between max-w-3xl w-full self-center">
             <div class="font-bold text-2xl dark:text-slate-100 flex gap-4 items-center">
-                <img class="h-8" src="/icons/logo.svg" alt="logo">
+                <img class="h-8 w-8" src="/icons/logo.svg" alt="logo">
                 <a href="/">Chris Vail</a>
             </div>
             

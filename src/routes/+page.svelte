@@ -8,6 +8,7 @@
 
 <svelte:head>
     <title>Chris Vail's Portfolio</title>
+    <meta name="description" content="Welcome to my portfolio, my name is Chris Vail and I am a software engineer specialising in Computer Vision.">
 </svelte:head>
 
 <Hero/>

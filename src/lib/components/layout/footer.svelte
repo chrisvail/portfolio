@@ -10,7 +10,7 @@
         <p class="text-center">Find me on:</p>
         <div class="flex justify-center items-center gap-4 -mt-2">
             {#each $icons as icon}
-                <a target="_blank" rel="noreferrer" class="hover:scale-105 duration-150" href={icon.href}>
+                <a target="_blank" rel="noreferrer" class="hover:scale-105 duration-150" href={icon.href} aria-label={icon.name}>
                     <Icon type={icon.icon} style="fill-white"/>
                 </a>
             {/each}
