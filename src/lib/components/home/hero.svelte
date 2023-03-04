@@ -6,7 +6,7 @@
 
 <div class="flex md:flex-row flex-col md:justify-between md: w-full">
     <div class="xl:w-2/3 md:w-3/5 min-h-96 md:py-8 xl:pl-64 xl:pr-8 xl:px-0 md:px-32 px-8 pt-24 pb-8 flex flex-col md:items-start md:text-left text-center items-center justify-center gap-2">
-        <h1 class="text-2xl font-light">Hi, I am</h1>
+        <h1 class="text-2xl font-light">Hi, I'm</h1>
         <h1 class="text-6xl font-bold -ml-2 pt-0 -mb-2 text-accent-base">Chris Vail</h1>
         <h2 class="text-2xl font-light">Computer Vision Engineer</h2>
         <div class="flex justify-center items-center gap-6 mt-6 ">

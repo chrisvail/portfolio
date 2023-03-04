@@ -65,7 +65,7 @@
     {
         "title":"Portfolio Website",
         "tagLine":"Building a personal brand",
-        "summary":"While it's a little recursive, I built the website you're on from the ground up using SvelteKit; a modern web framework. This (I hope) is proof that I'm not just a talented engineer, but also one who takes the time to communicate deep technical decisions effectively. What good is a great solution if no-one understands what you were trying to do in the first place?",
+        "summary":"I've always believed that great engineering has to not just work well but have the solutions and context communicated clearly in simple to understand language. My web design skills allow me to develop simple user interfaces for projects, while this website aims to succinctly communicate what I've done and why I did it.",
         "featuredImage":{
             "src":"/media/portfolio/portfolio.webp",
             "alt":"Tetris pieces falling into place on a grid"

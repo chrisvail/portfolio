@@ -3,7 +3,13 @@
         {
             "component":"paragraph",
             "props":{
-                "content":"Content coming soon. Please check back again later"
+                "content":"This website is my way of showing off the interesting and exciting work I've been doing over the last few years. While it isn't the most beautiful or complex design, I hope it does demonstrate my attention to detail, design eye and appreciation for minimalist aesthetics."
+            }
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"The website was built entirely by hand using SvelteKit - a really incredible JavaScript framework which lets you write modern web applications with as close to vanilla JS as possible. The website is the statically compiled (although I am looking into building a little serverless backend) and hosted on Gitub Pages letting me have my version control, CI/CD pipeline and hosting all in one place. "
             }
         }
     ]

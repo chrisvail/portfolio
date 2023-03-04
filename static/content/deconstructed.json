@@ -3,7 +3,25 @@
         {
             "component":"paragraph",
             "props":{
-                "content":"Content coming soon. Please check back again later"
+                "content":"Deconstructed is a revolutionary project that aims to tackle the growing problem of electronic waste by developing an autonomous system for disassembling waste electronic equipment using robots. As part of my Master's degree in Design Engineering at Imperial College London, I designed the first steps of this system, which used advanced computer vision and robotics techniques to locate, identify, and undo screws in electronic devices."
+            }
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"The heart of the system is the 6D pose estimation and image segmentation algorithm that I developed to localize the electronic device in space. By using pose estimation, the system can identify the location of the device. It then can combine knowledge of the devices layout and computer vision techniques to identify the location of screws to within 1.8mm. The system then uses a custom end-effector attached to the robot arm to undo the screws, enabling the disassembly of the electronic device."
+            }
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"One of the most innovative aspects of Deconstructed is the way in which the computer vision systems were trained. Rather than relying on generative AI for the dataset development, I used purely synthetic data generated using procedural techniques. This let me exploit my knowledge of what a device or a screw are meant to look like, while applying significant variation using layers of synthetic noise. This allowed me to generate a dataset of 10,000 images of electronic devices, with ground truth pose data and perfect segmentation masks, which were used for training. By using synthetic data, I was able to develop a robust and accurate computer vision system that can identify screws and other components in a wide variety of electronic devices."
+            }
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"Deconstructed has the potential to revolutionize the way we approach the problem of electronic waste. By developing an autonomous system for disassembling waste electronic equipment, we can reduce the amount of electronic waste that ends up in landfills, while also recovering valuable materials and components that can be reused or recycled. Combining advanced computer vision and robotics with artistic flair required for creating photorealistic images, Deconstructed is a truly impressive example of the intersection between sustainability, engineering and design."
             }
         }
     ]

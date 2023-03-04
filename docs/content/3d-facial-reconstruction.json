@@ -3,8 +3,26 @@
         {
             "component":"paragraph",
             "props":{
-                "content":"Content coming soon. Please check back again later"
-            }
+                "content":"I'm currently working as the core developer for an exciting pre-seed startup called PolyMetrix, which has developed a cutting-edge system for mass-customizing products based on a 3D model of the user's body. With only 3 people on the team, it's been an amazing opportunity to be involved in the development of a company from the very beginning."
+            }    
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"PolyMetrix's system has the potential to revolutionize the way we approach mass-customization of products. By using a 3D model of the user's body, PolyMetrix can produce custom-fit products that are comfortable, efficient, and effective. With my expertise in developing high-performance code, I've been able to contribute to this exciting and innovative project, helping to make it a reality."
+            }    
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"One of the biggest challenges in developing this was creating a system that could align depth images taken of people's faces quickly and accurately, all while running on an iPhone - a notably resource-restricted environment for this type of work. To meet this challenge, I developed a high-performance algorithm that uses state-of-the-art techniques for aligning depth images, while also optimizing the code to run efficiently on an iPhone"
+            }    
+        },
+        {
+            "component":"paragraph",
+            "props":{
+                "content":"I'm incredibly proud to be working with PolyMetrix and its founders, who are all passionate and committed to bringing their vision to life, while exploring the cutting-edge of technology and innovation. With such a talented and driven team, I'm excited to see where this startup goes in the future."
+            }    
         }
     ]
 }
