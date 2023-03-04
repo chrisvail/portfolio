@@ -34,7 +34,7 @@
         return direction
     }
 
-    let open = false
+    let open = true
     $: scrollDir = getDirection(currentY)
     $: offscreen = (scrollDir === "down" && currentY > clientHeight * 5) && !(open)
     
@@ -71,11 +71,13 @@
         {#if open}
         <!-- bg-slate-100 bg-opacity-70 backdrop-blur-md backdrop-saturate-150 z-50 -->
         <nav class="flex w-full relative self-center top-full" transition:slide>
-            <ul class="flex flex-col items-center font-bold my-8 gap-8 w-full text-slate-900 dark:text-slate-200 ">
+            <ul class="flex flex-col items-center font-bold my-8 gap-4 w-full text-slate-900 dark:text-slate-200 ">
                 {#each pages as page}
                     <li>
-                        <a href={page.url} class="border-b-2 border-accent-base" on:click={() => open = false} >{page.name}</a>
+                        <a href={page.url} class="text-2xl" on:click={() => open = false} >{page.name}</a>
+                        <!-- <a href={page.url} class="border-b-2 border-accent-base" on:click={() => open = false} >{page.name}</a> -->
                     </li>
+                    <hr class="bg-slate-200 opacity-50 border-0 h-px w-4">
                     {/each}
                     <!-- <li>
                         <button on:click={() => $dark = !$dark}>{$dark ? "Light" : "Dark"} Icon</button>
