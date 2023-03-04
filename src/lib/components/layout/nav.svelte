@@ -34,7 +34,7 @@
         return direction
     }
 
-    let open = true
+    let open = false
     $: scrollDir = getDirection(currentY)
     $: offscreen = (scrollDir === "down" && currentY > clientHeight * 5) && !(open)
     
